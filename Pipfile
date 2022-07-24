@@ -5,6 +5,8 @@ name = "pypi"
 
 [packages]
 requests = "*"
+json-checker = "*"
+pythonping = "*"
 
 [dev-packages]
 
